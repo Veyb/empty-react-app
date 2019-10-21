@@ -1,2 +1,9 @@
 # empty-react-app
-React app
+
+### How to Install
+
+    $ yarn
+
+### How to Run
+
+    $ yarn start
